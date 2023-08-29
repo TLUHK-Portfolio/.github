@@ -7,5 +7,5 @@ Siin repositooriumis on näha valikut Tallinna Ülikooli Haapsalu kolledži tude
 - [Arvutimäng Mina Tean! - MM praktika 2023](https://github.com/TLUHK-Portfolio/Mina-Tean)
 - [Arvutimäng Babushka&griZZly - MM praktika 2023](https://github.com/TLUHK-Portfolio/Babushka-and-griZZly)
 - [Arvutimäng Tudengiralli - MM praktika 2023](https://github.com/TLUHK-Portfolio/Tudengiralli)
-- [Tunniplaani rakendus Valikpraktika + diplomitööd 2022/2023](https://github.com/TLUHK-Portfolio/HK-Tunniplaan)
+- [Tunniplaani rakendus - Valikpraktika + diplomitööd 2022/2023](https://github.com/TLUHK-Portfolio/HK-Tunniplaan)
 
