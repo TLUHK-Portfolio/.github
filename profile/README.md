@@ -9,3 +9,4 @@ Siin repositooriumis on näha valikut Tallinna Ülikooli Haapsalu kolledži tude
 - [Arvutimäng Tudengiralli - MM praktika 2023](https://github.com/TLUHK-Portfolio/Tudengiralli)
 - [Tunniplaani rakendus - Valikpraktika + diplomitööd 2022/2023](https://github.com/TLUHK-Portfolio/HK-Tunniplaan)
 
+## Rakendusinformaatika eriala diplomitööd
