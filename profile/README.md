@@ -2,20 +2,20 @@
 
 Siin repositooriumis on näha valikut Tallinna Ülikooli Haapsalu kolledži tudengite poolt loodud töödest.
 
-## KTD tööd
+## Käsitöötehnoloogiad ja disain
 
 Siia tulevad KTD tööd.
 
-## LO tööd
+## Liiklusohutus
 
-Siia tulevad LO tööd.
+Siia tulevad Liiklusohutuse eriala tööd.
 
-## Rakendusinformaatika eriala tööd
+## Rakendusinformaatika
 
 - [Diplomitööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/diplomitood/README.md)
 - [Praktikad](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/praktikad/README.md)
 
-## Tervisejuhi eriala tööd
+## Tervisejuht
 
 Siia tulevad tervisejuhi eriala tööd.
 
