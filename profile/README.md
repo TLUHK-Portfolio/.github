@@ -17,7 +17,7 @@ Siin repositooriumis on näha valikut Tallinna Ülikooli Haapsalu kolledži tude
 
 <table>
   <tr>
-    <td><img src="./BabushkaJaGrizzly.png" alt="Babushka ja Grizzly"></td>
+    <td><img src="../images/BabushkaJaGrizzly.png" alt="Babushka ja Grizzly"></td>
     <td>„Babushka ja GriZZly“ on arvutis mängitav meelelahutusmäng kahe võimsa vastase vahel, kus mõlemad tegelased viskavad üksteise suunas esemeid. Rünnakud toimuvad kordamööda, kus mõlemal tegelasel on võimalus visata üks objekt korraga, luues dünaamilise ja põneva mängurütmi. Mängija on Babushka rollis ning tema eesmärk on olla täpsem kui GriZZly. [Loe edasi ...](https://github.com/TLUHK-Portfolio/Babushka-and-griZZly)</td>
   </tr>
 </table>
