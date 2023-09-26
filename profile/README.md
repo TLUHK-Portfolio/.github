@@ -5,7 +5,13 @@ Siin repositooriumis on näha valikut Tallinna Ülikooli Haapsalu kolledži tude
 ## Rakendusinformaatika eriala tööd
 
 ### Arvutimäng Mina Tean! - MM praktika 2023
-Mängu Mina tean! käigus peab mängija liikuma klassiruumides ning edasi pääsemiseks tuleb mängijal lahendada ülesandeid. Mängija valib tahvlilt vastuse kolme vastusevariandi seast. Õige vastuse korral avaneb uks ja mängija saab edasi liikuda järgmise ülesande juurde, vale vastuse korral saab mängija uuesti vastata niikaua, kui saab õige vastuse. Iga ülesande eest saab karika vastavalt sellele, mitmendal korral õigesti vastas. Mängu tulemusest sõltub, kas ta saab järgmisele tasemele. [Loe edasi ...](https://github.com/TLUHK-Portfolio/Mina-Tean)
+
+<table>
+  <tr>
+    <td><img src="./main_menu.png" alt="Kirjeldus"></td>
+    <td>Mängu Mina tean! käigus peab mängija liikuma klassiruumides ning edasi pääsemiseks tuleb mängijal lahendada ülesandeid. Mängija valib tahvlilt vastuse kolme vastusevariandi seast. Õige vastuse korral avaneb uks ja mängija saab edasi liikuda järgmise ülesande juurde, vale vastuse korral saab mängija uuesti vastata niikaua, kui saab õige vastuse. Iga ülesande eest saab karika vastavalt sellele, mitmendal korral õigesti vastas. Mängu tulemusest sõltub, kas ta saab järgmisele tasemele. [Loe edasi ...](https://github.com/TLUHK-Portfolio/Mina-Tean)</td>
+  </tr>
+</table>
 
 ### Arvutimäng Babushka&griZZly - MM praktika 2023
 „Babushka ja GriZZly“ on arvutis mängitav meelelahutusmäng kahe võimsa vastase vahel, kus mõlemad tegelased viskavad üksteise suunas esemeid. Rünnakud toimuvad kordamööda, kus mõlemal tegelasel on võimalus visata üks objekt korraga, luues dünaamilise ja põneva mängurütmi. Mängija on Babushka rollis ning tema eesmärk on olla täpsem kui GriZZly. [Loe edasi ...](https://github.com/TLUHK-Portfolio/Babushka-and-griZZly)
