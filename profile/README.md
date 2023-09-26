@@ -4,6 +4,5 @@ Siin repositooriumis on näha valikut Tallinna Ülikooli Haapsalu kolledži tude
 
 ## Rakendusinformaatika eriala tööd
 
-- [Diplomitööd](../RIF/diplomitood/README.md)
-- [Praktikad](./praktikad/README.md)
-
+- [Diplomitööd](https://github.com/TLUHK-Portfolio/.github/tree/main/diplomitood)
+- [Praktikad](https://github.com/TLUHK-Portfolio/.github/blob/main/RIF/praktikad/README.md)
