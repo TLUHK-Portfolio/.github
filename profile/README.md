@@ -8,7 +8,7 @@ Siin repositooriumis on näha valikut Tallinna Ülikooli Haapsalu kolledži tude
 
 <table>
   <tr>
-    <td><img src="./main_menu.png" alt="Kirjeldus"></td>
+    <td><img src="https://github.com/TLUHK-Portfolio/Mina-Tean/blob/master/MinaTean/img/main_menu.png" alt="Kirjeldus"></td>
     <td>Mängu Mina tean! käigus peab mängija liikuma klassiruumides ning edasi pääsemiseks tuleb mängijal lahendada ülesandeid. Mängija valib tahvlilt vastuse kolme vastusevariandi seast. Õige vastuse korral avaneb uks ja mängija saab edasi liikuda järgmise ülesande juurde, vale vastuse korral saab mängija uuesti vastata niikaua, kui saab õige vastuse. Iga ülesande eest saab karika vastavalt sellele, mitmendal korral õigesti vastas. Mängu tulemusest sõltub, kas ta saab järgmisele tasemele. [Loe edasi ...](https://github.com/TLUHK-Portfolio/Mina-Tean)</td>
   </tr>
 </table>
