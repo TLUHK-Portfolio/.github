@@ -3,20 +3,18 @@
 Siin repositooriumis on näha valikut Tallinna Ülikooli Haapsalu kolledži tudengite poolt loodud töödest.
 
 ## Käsitöötehnoloogiad ja disain
-
-Siia tulevad KTD tööd.
+- [Erialast](https://www.tlu.ee/haapsalu/kasitootehnoloogiad-ja-disain)
 
 ## Liiklusohutus
-
-Siia tulevad Liiklusohutuse eriala tööd.
+- [Erialast](https://www.tlu.ee/haapsalu/liiklusohutus)
 
 ## Rakendusinformaatika
-
+- [Erialast](https://www.tlu.ee/haapsalu/rakendusinformaatika)
 - [Diplomitööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/diplomitood/README.md)
 - [Praktikad](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/praktikad/README.md)
 
 ## Tervisejuht
+- [Erialast](https://www.tlu.ee/haapsalu/tervisejuht)
 
-Siia tulevad tervisejuhi eriala tööd.
-
-
+## Kogukonnatöö vananevas ühiskonnas
+- [Erialast](https://www.tlu.ee/haapsalu/kogukonnatoo-vananevas-uhiskonnas)
