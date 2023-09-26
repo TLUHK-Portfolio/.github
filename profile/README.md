@@ -8,7 +8,7 @@ Siin repositooriumis on näha valikut Tallinna Ülikooli Haapsalu kolledži tude
 
 <table>
   <tr>
-    <td><img src="https://github.com/TLUHK-Portfolio/Mina-Tean/blob/master/MinaTean/img/main_menu.png" alt="Mina Tean avaleht"></td>
+    <td><img src="https://github.com/TLUHK-Portfolio/Mina-Tean/blob/master/MinaTean/img/main_menu.png" alt="Mina Tean avaleht" style="width: 150px;"></td>
     <td>Mängu Mina tean! käigus peab mängija liikuma klassiruumides ning edasi pääsemiseks tuleb mängijal lahendada ülesandeid. Mängija valib tahvlilt vastuse kolme vastusevariandi seast. Õige vastuse korral avaneb uks ja mängija saab edasi liikuda järgmise ülesande juurde, vale vastuse korral saab mängija uuesti vastata niikaua, kui saab õige vastuse. Iga ülesande eest saab karika vastavalt sellele, mitmendal korral õigesti vastas. Mängu tulemusest sõltub, kas ta saab järgmisele tasemele. [Loe edasi ...](https://github.com/TLUHK-Portfolio/Mina-Tean)</td>
   </tr>
 </table>
@@ -17,7 +17,7 @@ Siin repositooriumis on näha valikut Tallinna Ülikooli Haapsalu kolledži tude
 
 <table>
   <tr>
-    <td><img src="https://github.com/TLUHK-Portfolio/.github/blob/main/images/BabushkaJaGrizzly.png" alt="Babushka ja Grizzly"></td>
+    <td><img src="https://github.com/TLUHK-Portfolio/.github/blob/main/images/BabushkaJaGrizzly.png" alt="Babushka ja Grizzly" style="width: 150px;"></td>
     <td>„Babushka ja GriZZly“ on arvutis mängitav meelelahutusmäng kahe võimsa vastase vahel, kus mõlemad tegelased viskavad üksteise suunas esemeid. Rünnakud toimuvad kordamööda, kus mõlemal tegelasel on võimalus visata üks objekt korraga, luues dünaamilise ja põneva mängurütmi. Mängija on Babushka rollis ning tema eesmärk on olla täpsem kui GriZZly. [Loe edasi ...](https://github.com/TLUHK-Portfolio/Babushka-and-griZZly)</td>
   </tr>
 </table>
