@@ -1,6 +1,8 @@
 # Rakendusinformaatika | Tallinna Ülikool – Haapsalu kolledž
 
-**Tere tulemast Tallinna Ülikooli Haapsalu kolledži rakendusinformaatika portfooliole!** Meie eriala keskendub praktiliste IT-lahenduste loomisele ja rakendamisele. Tutvustame siin tudengite projekte, mis kajastavad õppekava eesmärke ja eriala võimalusi nii õppekeskkonnas kui ka väljaspool.
+**Tere tulemast Tallinna Ülikooli Haapsalu kolledži rakendusinformaatika portfooliosse!**
+
+Meie eriala keskendub praktiliste IT-lahenduste loomisele ja rakendamisele. Tutvustame siin tudengite projekte, mis kajastavad õppekava eesmärke ja eriala võimalusi nii õppekeskkonnas kui ka väljaspool.
 
 ## Miks õppida rakendusinformaatikat Haapsalu kolledžis?
 
